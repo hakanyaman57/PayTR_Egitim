@@ -1,0 +1,49 @@
+- generic [ref=e140]:
+  - generic [ref=e141]:
+    - banner [ref=e142]:
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - button "Open Menu" [ref=e145] [cursor=pointer]
+          - img "Open Menu" [ref=e146]
+        - generic [ref=e147]: Swag Labs
+        - button "Cart, 2 items" [ref=e150]:
+          - generic [ref=e151]: "2"
+      - generic [ref=e152]: Your Cart
+    - main [ref=e154]:
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - generic [ref=e157]: QTY
+          - generic [ref=e158]: Description
+          - generic [ref=e159]:
+            - generic [ref=e160]: "1"
+            - generic [ref=e161]:
+              - button "View details for Sauce Labs Onesie" [ref=e162] [cursor=pointer]:
+                - generic [ref=e163]: Sauce Labs Onesie
+              - generic [ref=e164]: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+              - generic [ref=e165]:
+                - generic [ref=e166]: $7.99
+                - button "Remove" [ref=e167] [cursor=pointer]
+          - generic [ref=e168]:
+            - generic [ref=e169]: "1"
+            - generic [ref=e170]:
+              - button "View details for Sauce Labs Bike Light" [ref=e171] [cursor=pointer]:
+                - generic [ref=e172]: Sauce Labs Bike Light
+              - generic [ref=e173]: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+              - generic [ref=e174]:
+                - generic [ref=e175]: $9.99
+                - button "Remove" [ref=e176] [cursor=pointer]
+        - generic [ref=e177]:
+          - button "Continue Shopping" [ref=e178] [cursor=pointer]
+          - button "Checkout" [ref=e179] [cursor=pointer]
+  - contentinfo [ref=e180]:
+    - list [ref=e181]:
+      - listitem [ref=e182]:
+        - link "X" [ref=e183] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e184]:
+        - link "Facebook" [ref=e185] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e186]:
+        - link "LinkedIn" [ref=e187] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e188]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

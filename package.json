@@ -1,0 +1,23 @@
+{
+  "name": "paytr_egitim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakanyaman57/PayTR_Egitim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hakanyaman57/PayTR_Egitim/issues"
+  },
+  "homepage": "https://github.com/hakanyaman57/PayTR_Egitim#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
